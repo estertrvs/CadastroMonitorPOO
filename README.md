@@ -1,6 +1,6 @@
 # 📋 Cadastro de Monitores - Projeto de Programação Orientada a Objetos (POO)
 
-Bem-vindo ao repositório **cadastro-dos-monitores-POO**! Este projeto foi desenvolvido em Java, utilizando a biblioteca Swing, com o objetivo de criar uma aplicação de cadastro de monitores. O sistema oferece funcionalidades de login para administradores, que podem criar/editar editais, e para alunos, que podem se inscrever nos editais disponíveis.
+Bem-vindo ao repositório **CadastroMonitorPOO**! Este projeto foi desenvolvido em Java, utilizando a biblioteca Swing, com o objetivo de criar uma aplicação de cadastro de monitores. O sistema oferece funcionalidades de login para administradores, que podem criar/editar editais, e para alunos, que podem se inscrever nos editais disponíveis.
 
 ## 🚀 Funcionalidades
 
